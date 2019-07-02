@@ -1,3 +1,6 @@
 [submodule "pos_retail"]
 	path = pos_retail
 	url = git@github.com:viernes/pos_retail.git
+[submodule "xmarts_pos_invoice"]
+	path = xmarts_pos_invoice
+	url = git@github.com:viernes/xmarts_pos_invoice.git
